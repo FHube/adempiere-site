@@ -1,5 +1,5 @@
 ---
-title: Technology
+title: Tecnología
 category: Product
 star: 9
 sticky: 9
@@ -8,71 +8,67 @@ tag:
 article: false
 ---
 
-![Technology](/assets/img/product/technology.jpg)
+![Tecnología](/assets/img/product/technology.jpg)
 
-## Technology Elements
+## Elementos de Tecnología
 
-- ADempiere is a 100% pure Java solution.
-- It is based upon Oracle Database technology
-- It natively supports Postgresql Open Source Database
-- Features a 100% Java client
-- It leverages a HTML client allowing access to the application where a local client is not appropriate (e.g. self-service functionality for suppliers, customers and employees). (Java Servlets and Java Server Pages).
-- It features J2EE JBOSS application server.
-- Server intensive processes are designed to run in background mode with PL/SQL as native language
+- ADempiere es una solución 100% Java.
+- Está basado en tecnología de Base de Datos Oracle
+- Soporta nativamente Base de Datos Postgresql
+- Posee un cliente 100% Java
+- Aprovecha un cliente HTML que permite el acceso a la aplicación donde un cliente local no es apropiado (por ejemplo, funcionalidad de autoservicio para proveedores, clientes y empleados). (Java Servlets y Java Server Pages).
+- Posee servidor de aplicación J2EE JBOSS.
+- Los procesos intensivos del servidor están diseñados para ejecutarse en modo de fondo con PL/SQL como idioma nativo
 
-## Application Dictionary
+## Diccionario de Aplicación
 
-- The data dictionary contains definitions of the entity type (type, validation, etc.)
-- It determines how it should be displayed e.g. labels on screens and reports, context help, sequence and position relative to other fields, and the rules for rollout.
-- Safety Access Rules
-- The Data Dictionary is managed and extended by the user it contains rules and user defined information.
+- El diccionario de datos contiene definiciones del tipo de entidad (tipo, validación, etc.)
+- Determina cómo debe mostrarse, por ejemplo, etiquetas en pantallas e informes, ayuda de contexto, secuencia y posición en relación con otros campos, y las reglas para la implementación.
+- Reglas de acceso de seguridad
+- El Diccionario de Datos es administrado y extendido por el usuario, contiene reglas e información definida por el usuario.
 
-## Intelligent User Interface
+## Interfaz Inteligente de Usuario
 
-- A consistent User Interface allows users to quickly navigate through the system even on sections unfamiliar for them.
-- The Graphical User Interface uses the power of today's modern devices where a quick reaction and navigation is important.
-- The HTML User Interface allows access to the application from anywhere as long as it has a compliant browser.
-- You can enable Zoom functions from any type drop-down list.
-- You can check records. The query reduces the number of records in a window to allow the entry criteria in an improved "query by example" (query by example) style.
-- The users themselves can adjust the outline of the window and can define special screens for a specific customer situation or when so required.
+- Una interfaz de usuario consistente permite a los usuarios navegar rápidamente a través del sistema incluso en secciones desconocidas para ellos. 
+- La interfaz gráfica de usuario utiliza el poder de los dispositivos modernos de hoy en día, donde una reacción rápida y la navegación son importantes. 
+- La interfaz de usuario HTML permite el acceso a la aplicación desde cualquier lugar siempre que tenga un navegador compatible. 
+- Puede habilitar las funciones de Zoom desde cualquier tipo de lista desplegable. 
+- Puede verificar los registros. La consulta reduce el número de registros en una ventana para permitir los criterios de entrada en un estilo mejorado de "consulta por ejemplo" (consulta por ejemplo). 
+- Los propios usuarios pueden ajustar el contorno de la ventana y pueden definir pantallas especiales para una situación específica del cliente o cuando así se requiera.
 
-## Intelligent Reports
+## Reportes Inteligentes
 
-- Reports Listings through the system viewer are based on the data dictionary, since the report viewer has access to data definitions, it natively allows Drill down and drill-across searches.
-- Data linkages are generated automatically, adhering to security access definitions in real time.
-- All report outputs can be previewed on screen before printing or generating files in several standard formats (eg. Excel, HTML, XML, Word and PDF).
-- Drill (Drill-down) a new report is generated based on the selected entity, reports where the number is a sum of numbers or accessed from an accrued monthly to the original transaction amount.
-- Browse References (Drill-across) allows the user to create a new report in which a specific entity being used.
-- The lists are based on information from the windows. You can generate a report for each system screen.
-- The reports are usually based on summarized information based on reports views.
-- The OLAP Viewer can display different dimensions in a table or a graph.
+- Los listados a través del visor del sistema se basan en el diccionario de datos, dado que el visor de informes tiene acceso a las definiciones de datos, permite de forma nativa profundizar y profundizar en las búsquedas. 
+- Los enlaces de datos se generan automáticamente, adhiriéndose a las definiciones de acceso de seguridad en tiempo real. 
+- Todas las salidas de informes se pueden previsualizar en pantalla antes de imprimir o generar archivos en varios formatos estándar (por ejemplo. Excel, HTML, XML, Word y PDF). 
+- Al profundizar se genera un nuevo informe basado en la entidad seleccionada, informes donde el número es una suma de números o se accede desde un mensual acumulado al monto original de la transacción.
+- Examinar referencias permite al usuario crear un nuevo informe en el que se utiliza una entidad específica. 
+- Las listas se basan en la información de las ventanas. Puede generar un informe para cada pantalla del sistema. 
+- Los informes suelen basarse en información resumida basada en las vistas de los informes. 
+- El visor OLAP puede mostrar diferentes dimensiones en una tabla o un gráfico.
 
-## Sustainable Architecture
+## Arquitectura Sostenible
 
-Business applications change over time. They need to leverage new technologies and provide additional smarter functionality. Even canned applications should even support additional functionality, although usually not appropriate for integration with the functional core of a growing business.
+Las aplicaciones empresariales cambian con el tiempo. Necesitan aprovechar las nuevas tecnologías y proporcionar una funcionalidad adicional más inteligente. Incluso las aplicaciones enlatadas deberían incluso admitir funcionalidad adicional, aunque generalmente no son apropiadas para la integración con el núcleo funcional de un negocio en crecimiento. 
 
-Adempiere uses the following design principles to create a sustainable architecture:
+Adempiere utiliza los siguientes principios de diseño para crear una arquitectura sostenible: Arquitectura MVC de Smalltalk, que es una derivación del enfoque Modelo-Vista-Controlador. Un motor de reglas explícitas para la lógica de transacciones compleja y la recuperación de errores a prueba de transacciones. 
 
-Smalltalk MVC Architecture which is a derivation of the Model-View-Controller approach. Explicit Rules Engine for complex Transaction Logic and transaction safe fail recovery.
+El ERP tiene una arquitectura de objetos, cada objeto es lo más independiente posible de otros objetos, incluida la derivación transaccional.
 
-ERP has an object architecture each object is as independent as possible from other objects, including transactional derivation.
+## Garantía ante fallas
 
-## Safe-Fail
+Por lo general, las aplicaciones están diseñadas para estar libres de fallas (a prueba de fallos): Se supone que todo funciona y que todos los datos se ingresan correctamente y son consistentes. En caso de falla, los expertos deben encontrar la causa y verificar si hubo daños. El usuario suele notar el problema. La realidad es que las aplicaciones a veces fallan. En contraste, ADempiere está diseñado para tener seguridad ante fallas.
 
-Usually the applications are designed to be free of faults (fail-safe): It is assumed that everything works and that all data are entered correctly and are consistent. In case of failure, experts must find the cause and check if there was damage. The user usually notices the problem. The reality is that applications sometimes fail.
+Cada transacción se puede repetir y regenerar. La mayoría de las fallas son identificadas por el sistema y el usuario puede intentar resolver el problema. Si la recuperación no es posible, el error se aísla y el resto del sistema continúa funcionando. El diseño desacoplado se basa en la transacción está habilitado.
 
-In contrast ADempiere is designed to be safe-fail. Each transaction can be repeated and regenerated. Most failures are identified by the system and the user can try to solve the problem. If recovery is not possible, the error is isolated and the rest of the system continues to work. Decoupled design is based transaction is enabled.
+El sistema comprueba regularmente si una transacción está completa. Si una transacción no está completa y es consistente debido a un error del sistema, se informa al administrador y al usuario. 
 
-The system checks regularly whether a transaction is complete. If a transaction is not complete and consistent due to a system failure, the administrator and the user is informed.
+A medida que las aplicaciones se vuelven más complejas con combinaciones cada vez mayores, los errores crecen exponencialmente. El ERP proporciona un marco para una validación extensa y, en caso de falla, aísla el problema asegurando una alta disponibilidad de las funciones centrales (kernel de la aplicación).
 
-As applications become more complex with ever increasing combinations, the errors grow exponentially. ERP provides a framework for extensive validation and in case of failure, isolate the problem by ensuring high availability of the central functions (application kernel).
+## Seguridad
 
-## Security
+ADempiere es compatible con la seguridad y las funciones de los datos. La función de seguridad se basa en roles de usuario y controles de acceso, ventanas, informes y procesos.
 
-ADempiere supports data security and functions. The safety function is based on User Roles and Access Controls Windows, Reports and Processes.
+La seguridad de los datos para la información del cliente y la Organización se mantiene a nivel de la base de datos a través del contexto de seguridad. Este es un nivel adicional de seguridad más allá de la identificación (inicio de sesión) del usuario habitual de la base de datos. Esto permite el uso de herramientas de terceros basadas en SQL para acceder a la base de datos. Antes de acceder a cualquier dato, el usuario debe ser identificado a través de un procedimiento almacenado (procedimiento almacenado) con nombre de usuario, contraseña y, opcionalmente, rol de idioma. Esto proporciona las mismas reglas de acceso para herramientas de terceros que pueden existir en la aplicación. 
 
-The data security for customer information and the Organization is maintained at the level of the database through the security context. This is an additional level of security beyond identification (login) regular user of the database. This allows the use of third-party tools based on SQL to access the database. Before accessing any data the user must be identified through a stored procedure (stored procedure) with username, password and optionally language role. This provides the same access rules for third-party tools that may exist in the application.
-
-Most applications do not have a layer of security beyond the user ID of the database and have difficulty restricting access through third-party SQL tools.
-
-The Customer Passwords are stored in encrypted form.
+La mayoría de las aplicaciones no tienen una capa de seguridad más allá del ID de usuario de la base de datos y tienen dificultades para restringir el acceso a través de herramientas SQL de terceros. Las contraseñas de los clientes se almacenan de forma cifrada.
