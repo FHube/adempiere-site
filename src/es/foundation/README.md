@@ -1,5 +1,5 @@
 ---
-title: About the Association
+title: Acerca de la Asociación
 icon: interact
 category: Foundation
 star: 9
@@ -9,23 +9,21 @@ tag:
 article: false
 ---
 
-## About the Association
+## Acerca de la Asociación
 
-::: tip Who is ADempiere Deutschland e.V.?
+::: Dato Quién es ADempiere Deutschland e.V.?
 
-The ADempiere association (ADempiere Deutschland e.V.) represents the open-source software project "ADempiere" in germany. We understand ourselves as developing partner consisting of people who work with ADempiere.
+The Asociación ADempiere (ADempiere Deutschland e.V.) representa el proyecto de código abierto "ADempiere" en Alemania. Nos definimos como un socio desarrollador compuesto por personas que trabajan con ADempiere.
 
-:::
+### Cuál es el objetivo de la asociación?
 
-### Whats the aim of this association?
+El principal objetivo de la asociación es la de ayudar a la distribución del software en Alemania.
 
-Our main goal in terms of this association is to help to further distribute the software in germany.
+### Qué es lo que hacemos para conseguir este objetivo?
 
-### What we do to fulfil these goals:
-
-- Fostering the relationship and collaboration of users, developers and scientists
-- Development and further studies of free and open ERP software
-- Providing documentation and supporting media to accomplish free ERP software and to secure availability of all kinds of information around the software
-- Promoting the software on tradefares and congresses to gain to access to broad audience possibly interested in ADempiere
-- Organization of congresses and workshops in general with talks by users and developers
-- Protection of the free licensing of the software against commercially interested parties
+- Fomentar la relación y colaboración de usuarios, desarrolladores y científicos 
+- Desarrollo y estudios posteriores de software ERP libre y abierto 
+- Proporcionar documentación y medios de apoyo para lograr un software ERP gratuito y asegurar la disponibilidad de todo tipo de información alrededor del software 
+- Promoción del software sobre tarifas comerciales y congresos para acceder a un público amplio posiblemente interesado en ADempiere 
+- Organización de congresos y talleres en general con charlas a cargo de usuarios y desarrolladores 
+- Protección de la libre licencia del software contra las partes comercialmente interesadas
