@@ -1,5 +1,5 @@
 ---
-title: Benefits
+title: Beneficios
 category: Product
 star: 9
 sticky: 9
@@ -12,62 +12,62 @@ article: false
 
 ![Benefits](/assets/img/product/benefits.jpg)
 
-## ADempiere ERP / CRM Advantage
+## Ventajas ADempiere ERP / CRM
 
-### Flexibility
+### Flexibilidad
 
-**ADempiere embraces open standards that allow:**
+**ADempiere considera estándares abiertos que permiten:**
 
-- System Standardization, stability and inteoperability
-- Full Data Visibility
-- Seamles Integration with third party systems
-- Independence from hardware and propietary OSS
+- Estandarización de sistema, estabilidad e interoperabilidad
+- Visibilidad completa de los datos
+- Integración sencilla con otros sistemas
+- Independencia respecto de requerimientos propietarios de sistemas operativos y hardware
 
-### Long Term Feasibility
+### Viabilidad a largo plazo
 
-**Protects your business from technology obsolescence:**
+**Protección de su negocio de la obsolescencia tecnológica:**
 
-- Complying with industry standards and using widely available tools that support these standards, for further development and customization.
-- Ensuring availability of a large base of supporting users and developers, with knowledge of the tools used.
-- Source Code is publicy available enables long-term development.
-- Highly scalable allows to meet natural as well as unpredicted market changes.
-- Not subject financial success or failure from a specific company or indivicual
+- Cumplir con los estándares de la industria y utilizar herramientas ampliamente disponibles que respalden estos estándares, para un mayor desarrollo y personalización.
+- Garantizar la disponibilidad de una gran base de usuarios y desarrolladores de apoyo, con conocimiento de las herramientas utilizadas.
+- El código fuente está disponible públicamente y permite el desarrollo a largo plazo.
+- Altamente escalable permite satisfacer los cambios naturales e imprevistos del mercado.
+- No está sometido al éxito o fracaso financiero de una empresa específica.
 
-### Lower Cost or Ownership
+### Bajo Costo de Propiedad
 
-- Software license at no cost
-- Without upfront license costs or long term maintainance commitments
-- Reduced costs for development and support
-- Reduced fees from integrators and service providers
+- Sin costos de licencia del software.
+- Sin costos por cantidad de usuarios finales o por acuerdos de mantención a largo plazo.
+- Menor costo por desarrollo y soporte.
+- Menor costo por integraciones y proveedores de servicios.
 
-## Open Source Advantage
+## Ventajas del Código Abierto
 
-### Reducing dependence on a single service providers
+### Reducir la dependencia de un solo proveedor de servicios
 
-- Minimize the use of proprietary technology
-- Eliminates vendor lock avoiding payment on license fees and maintenance
-- Lowers entry and maintenances costs from Open Source integrators and ancillary service providers
+- Minimizar el uso de tecnología propietaria.
+- Eliminar restricciones del proveedor al evitar gastos por licenciamiento y mantenciones.
+- Reducir costos de entrada y mantención de los integradores de código abierto y otros proveedores de servicio.
 
-### Its self dependent
+### Independencia
 
-- Encourages a flexible development process with a greater focus to specific business requirements.
-- Greater participation and collaboration between the service integrator and the end user
-- Technology independence
-- Increased responsiveness to address local needs as they are identified.
-- Gives End User requirements priority over supplier's.
+- Potencia un proceso de desarrollo flexible, enfocándose en las necesidades específicas de cada negocio.
+- Mejor participación y colaboración entre integradores de servicios y usuarios finales.
+- Independencia tecnológica.
+- Mejora de los tiempos de respuesta para solucionar necesidades locales a medida que son identificadas.
+- Da prioridad a los requerimientos de los usuarios finales por sobre los proveedores.
 
-### Wide range of support options.
+### Variedad de opciones de soporte
 
-- A Support business platform from many organizations worldwide.
-- Free support is available from a number of forums and community pages
-- Enjoy a support experience normally takes more relevance than with proprietary counterparts.
+- Soporte brindado por múltiples organizaciones a nivel mundial.
+- Soporte gratuito disponible en un número de foro y comunidades digitales.
+- Disfrutar de una experiencia de soporte más satisfactoria que en el modelo propietario.
 
-### Technically Superior
+### Superioridad Técnica
 
-OSS related products are more aligned to open standards that patented products allowing a greater degree of interoperability.
+Los productos relacionados al modelo de código abierto están más alineados conlos estándares abiertos que los productos patentados, permitiendo un mayor grado de interoperabilidad.
 
-### Integration with other software systems
+### Integración con otros sistemas
 
-Many organizations acquire a few software pieces to meet a specific requirement but later realize the difficulties they have to effectively share gathered and related information.
+Muchas organizaciones adquieren algunas piezas de software para cumplir con un requisito específico, pero luego se dan cuenta de las dificultades que tienen para compartir de manera efectiva la información recopilada y relacionada.
 
-This ends up duplicating sensible data, with more effort involved and errors incurred. The same problem happens with open source, only to learn the later case the user already has the code available and can further investigate critical points of failure and figure out solution alternatives before it gets to a critical state.
+Esto termina duplicando datos sensibles, con más esfuerzo involucrado y errores incurridos. El mismo problema ocurre con el código abierto, solo para aprender el caso posterior, el usuario ya tiene el código disponible y puede investigar más a fondo los puntos críticos de falla y descubrir alternativas de solución antes de que llegue a un estado crítico.
