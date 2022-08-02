@@ -10,7 +10,7 @@ La mayoría de las empresas adquirieron diferentes softwares para cubrir las dif
 
 ADempiere, debido a su estado ERP, ofrece todo lo que una empresa necesita en un solo software, [ADempiere ERP](http://adempiere.net/) quiere ofrecer a sus lectores una amplia gama de documentos estructurados para usuarios con alta y baja experiencia en el manejo de Software ERP, en los que cada proceso de este potente sistema será explicado de manera eficiente y detallada, definiendo paso a paso la gestión de cada uno, sus implicaciones contables, administrativas y fiscales y finalmente la emisión de resultados que permitan un control óptimo de sus operaciones.
 
-::: info Intro
+::: info Intro.
 
 Tenga en cuenta que todo el ecosistema [ADempiere ERP](http://adempiere.net/) se creó para ser utilizado en cualquier organización con cambios mínimos. Esta documentación fue creada para uso final, tecnología e implementación.
 
