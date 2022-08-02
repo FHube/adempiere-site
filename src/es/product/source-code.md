@@ -1,5 +1,5 @@
 ---
-title: Source Code
+title: Código Fuente
 category: Source Code
 star: 9
 sticky: 9
@@ -10,45 +10,45 @@ tag:
 article: false
 ---
 
-![Source Code](/assets/img/product/source-code.png)
+![Código Fuente](/assets/img/product/source-code.png)
 
-## Adempiere Project Repository
+## Repositorio del Proyecto ADempiere
 
-The ADempiere main repository can be found in [GitHub](https://github.com/adempiere/adempiere).
+LE repositorio principal de ADempiere puede encontrarse en [GitHub](https://github.com/adempiere/adempiere).
 
-::: tip Git
+::: Dato Git
 
-Before proceeding, please refer to the [Git SCM Documentation](http://git-scm.com/doc)
+Antes de proceder, por favor refiérete a [Git SCM Documentation](http://git-scm.com/doc)
 
-To collaborate with the ADempiere team, we use the Git Hub Fork and Pull model. From the [GitHub website](https://help.github.com/articles/using-pull-requests/#fork--pull)
-
-:::
-
-::: tip Collabotate
-
-To collaborate with the ADempiere team, we use the Git Hub Fork and Pull model. From the [GitHub website](https://help.github.com/articles/using-pull-requests/#fork--pull)
+Para colaborar con el equipo ADempiere, nosotros usamos el modelo de Git Hub Fork y Pull. Desde [GitHub website](https://help.github.com/articles/using-pull-requests/#fork--pull)
 
 :::
 
-The fork & pull model lets anyone fork an existing repository and push changes to their personal fork without requiring access be granted to the source repository. The changes must then be pulled into the source repository by the project maintainer. This model reduces the amount of friction for new contributors and is popular with open source projects because it allows people to work independently without upfront coordination.
+::: Dato Colaborar
 
-Refer to the GitHub article on [Pull Requests](https://help.github.com/articles/using-pull-requests) for more information and instructions on how to get started.
+Para colaborar con el equipo ADempiere, nosotros usamos el modelo Git Hub Fork and Pull. Desde [GitHub website](https://help.github.com/articles/using-pull-requests/#fork--pull)
 
-### Summary Instructions
+:::
 
-The setup is easy. Follow these steps:
+El modelo de Fork and Pull permite a cualquiera hacer un fork de un respoitorio existente y realizar modificaciones, mediante el uso del fork personal sin necesidad de tener acceso al fork del repositorio fuente. Los cambios luego deben ser incorporados en el repositorio fuente por el mantenedor del proyecto. Este modelo reduce la cantidad defricción para los nuevos controbuyentes y es popular para los proyectos de código abierto, porque permite a los participantes trabajar sin la necesidad de una coordinación principal.
 
-- Install the Git Software. You can work with the Git command line or any of a number of Git GUI tools. As the repository is on GitHub, it is recommended to follow the [GitHub setup procedures](https://help.github.com/articles/set-up-git/).
-- Create a GitHub account
-- Create your personal fork of the Adempiere project
-- Create a local clone of your personal fork
-- Start developing!
-- Commit your work to your own fork. Follow the [Adempiere Software Development Procedure](http://wiki.adempiere.net/Software_Development_Procedure) for branch naming.
-- Send a pull request to the Adempiere project.
+Revisa el artículo de GitHub en [Pull Requests](https://help.github.com/articles/using-pull-requests) para mayor información e instrucciones de cómo iniciarte.
 
-### Cloning a Repository
+### Resumen de Instrucciones
 
-Cloning a repository to your local computer is simple. Follow the instructions with the GitHub software or your GUI tool, many of which allow for cloning a GitHub repository to a local computer with a few mouse clicks. If you want to do it from the command line,
+El setup is simple. Sigue estos pasos:
+
+- Instalar el Software de Git. Puedes trabajar con la línea de comando de Git o cualquiera de sus herramientas GUI. Como el respositorio está en GitHub, se recomienda seguir [GitHub procedimientos de configuración](https://help.github.com/articles/set-up-git/).
+- Crea una cuenta GitHub
+- Crea tu fork personal del preyecto ADempiere
+- Crea un clon local de tu fork personal
+- Comienza a desarrollar!
+- Comete tu trabajo a tu fork personal. Sigue el [Procedimiento de Desarrollo de ADempiere](http://wiki.adempiere.net/Software_Development_Procedure) para la gestión del nombre de la rama.
+- Envía un pull request al proyecto ADempiere.
+
+### Clonar un repositorio
+
+Clonar un repositorio a tu cpmputador local es simple. Sigue las instrucciones con el software Git o tu herramienta GUI, que permiten la clonación de un respositorio GitHub a tu computadora local con unos pocos clicks del mouse. Si deseas hacerlo mediante la línea de comando,
 
 ::: vue-demo Clone the project default
 
@@ -59,9 +59,9 @@ git clone https://github.com/adempiere/adempiere
 
 :::
 
-This will create a directory using the url project name, initialize a .git directory inside it, pull down all the data for that repository, and check out a working copy of the latest version. If you go into the new directory, you'll see the project files in there, ready to be worked on or used.
+Esto creará un directorio utilizando el nombre del proyecto url, inicializará un directorio.git dentro de él, desplegará todos los datos de ese repositorio y retirará una copia de trabajo de la última versión. Si entras en el nuevo directorio, verás los archivos del proyecto allí, listos para ser trabajados o utilizados.
 
-To change the name of clone directory use the following
+Para cambiar el nombre del directorio de clones, utilice lo siguiente
 
 ::: vue-demo Clone the project with Optional Name
 
@@ -72,34 +72,34 @@ git clone https://github.com/adempiere/adempiere <Optional Name>
 
 :::
 
-### Cloning the Repository with a Slow Connection
+### Clonar el repositorio con una conexión lenta.
 
 To clone a repository over a slow or intermittent Internet connection, try using git fetch instead of clone as follows:
 
-::: vue-demo For Linux
+::: vue-demo para Linux
 
 ```Shell
-  # Go to default folder
+  # Anda a la carpeta por defecto
   cd /opt/Development/repos
 
-  # Create a directory for the repo and change to it
+  # Crea un directorio para la repo y modifícalo a este
   mkdir adempiere
 
-  # Go to new folder
+  # Anda a la nueva carpeta
   cd adempiere
 
-  # Initialize the repository
+  # Inicia el repositorio
   git init
   Initialized empty Git repository in /opt/Development/repos/github/adempiere/.git/
 
-  # The default reference to the source repository in a clone is "origin".  Clone your
-  # personal fork from your account <account>.
+  # La referencia por defecto al repositorio fuente en un clon es el 'origen'.
+  # Clona el fork personal de la cuenta <cuenta>.
   git remote add origin https://github.com/adempiere/adempiere.git
 
-  # Fetch the contents.
+  # Actualiza los contenidos.
   git fetch
 
-  # Update to the current master branch - for example
+  # Actualiza la rama maestra actual - por ejemplo
   git reset --hard origin/master
 ```
 
