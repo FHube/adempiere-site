@@ -1,5 +1,5 @@
 ---
-title: Quiénes Somos?
+title: ¿Quiénes Somos?
 icon: group
 category: Community
 star: 9
