@@ -12,4 +12,4 @@ Los datos maestros incluyen registros que dan lugar a transacciones, por lo tant
 
 Vaya al siguiente contenido para obtener más información al respecto:
 
-[Definición de Producto](producto)
+[Definición de Producto](producto).
