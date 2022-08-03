@@ -1,5 +1,5 @@
 ---
-title: Downloads
+title: Descargas
 icon: download
 category: Download
 star: 9
@@ -14,24 +14,24 @@ tag:
 article: false
 ---
 
-## Download ADempiere
+## Descarga ADempiere
 
-The open-source ERP, CRM & SCM that powers millions of enterprises around the world. Get all features from this great ERP for you organization or business.
+El ERP, CRM & SCM de código abierto, que potencia millones de empresas alrededor del mundo. Obtén todos las características del este gran ERP para tu organización o negocio.
 
 ::: tip
 
-Learn more about ADempiere ERP [here](../docs)
+Aprende más acerca del ERP ADempiere [aquí](../docs)
 
 :::
 
-## Where is available ADempiere ERP?
+## Dónde está disponible ADempiere?
 
-We are many ways for download ADempiere, you can use the way that suits you best or suits your needs for test cycles, quality assurance or production environments
+Somos unas de las muchas formas de adquirir ADempiere, tú puedes usar la manera que se acomode mejor a tus necesidades de acuerdo a los ciclos de prueba, QA o ambientes productivos.
 
-[**Docker**](https://www.docker.com/) is a platform where you can have separate applications through containers. Packaged in such a way that it is very easy to deploy in development, test and production environments. Docker is responsible for generating a package with the minimum libraries necessary to start the application. See more about it [here](docker.md).
+[**Docker**](https://www.docker.com/) es una plataforma donde puedes tener aplicaciones separadas a través de contenedores. Empaquetadas de tal manera que se hace muy fácil el despliegue de los ambientes de desarrollo, prueba y productivo. Docker es responsable de generar los paquetes con el mínimo necesario de librerías para iniciar la aplicación. Puedes revisar más información [aquí](docker.md).
 
-[**Helm**](https://helm.sh/) is a package manager for [kubernetes](https://kubernetes.io/) that basically help to define all realted with the hard work of install and upgrade the kubernetes applications. See more about it [here](helm.md).
+[**Helm**](https://helm.sh/) es un gestionador de paquetes para [kubernetes](https://kubernetes.io/) que básicamente ayuda a definir todo lo relacionado a las aplicaciones kubernetes. Puedes revisar más información [aquí](helm.md).
 
-[**Operator**](https://operatorhub.io/) is a alternative way to helm that allows deploy application over [kubernetes](https://kubernetes.io/). See more about it [here](operator.md).
+[**Operator**](https://operatorhub.io/) es una alternativa a Helm que permite el despliegue de aplicaciones en [kubernetes](https://kubernetes.io/). Puedes revisar más información [aquí](operator.md).
 
-[**Github Releases**](https://github.com/adempiere) is the hub of many open source applications and allows share source code, releases; Make actions for build projects automatically. We have all repo of ADempiere community over it. See more about it [here](binary.md).
+[**Github Releases**](https://github.com/adempiere) es un hub de muchas aplicaciones de código abierto que permite compartir códigos fuente y versiones; puedes realizar aportes a diferentes proyectos en forma automática. Tenemos todas las repo de la comunidad ADempiere. Puedes revisar más información [aquí](binary.md).
