@@ -1,5 +1,5 @@
 ---
-title: Binary Download
+title: Descarga Binary
 icon: github
 category: Download
 star: 9
@@ -13,14 +13,14 @@ tag:
 article: false
 ---
 
-::: tip We are on Github
+::: Dato Estamos en Github
 
-All community of [ADempiere ERP](http://adempiere.net/) is over [Gihub](http://github.com/adempiere). We have many projects for you with daily contributions.
+Toda la comunidad de [ADempiere ERP](http://adempiere.net/) se encuentra en [Gihub](http://github.com/adempiere). Tenemos muchos proyectos para tí con contribuciones diarias.
 
 :::
 
 ## Github Releases
 
-All releases of [ADempiere ERP](http://adempiere.net/) are [here](https://github.com/adempiere/adempiere/releases)
+Todos los release de [ADempiere ERP](http://adempiere.net/) están [aquí](https://github.com/adempiere/adempiere/releases)
 
 <Releases/>
