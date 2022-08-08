@@ -1,5 +1,5 @@
 ---
-title: Purchases tab
+title: Pestaña Compras
 category:
   - Product
   - Purchase
@@ -11,176 +11,136 @@ article: false
 author: Yamel Senih
 ---
 
-In this window the prices and rules of purchases by partners are registered
-of the business, in order to be used at the time of making
-any purchase of that product. Each of the fields with the symbol
-(\*) are required for registration.
+En esta ventana se registran los precios y normas de compra por parte de los socios del negocio, con el fin de ser utilizado en el momento de la realización cualquier compra de ese producto. Cada uno de los campos con el símbolo (\*) son necesarios para el registro.
 
-::: warning
+::: Advertencia
 
-In the case of merchandise on consignment, this tab should not be
-modified for any reason, since the information in it is
-charged since the last processed purchase order in which you are
-said product.
+En el caso de mercancías en consignación, esta pestaña no debe ser modificado por cualquier motivo, ya que la información en él es cobrado desde la última orden de compra procesada en la que se encuentra dicho producto.
 :::
 
-Select the "**Purchases**" tab, located on the left side of the
-window "**Product**" and proceed to fill in the fields
-corresponding.
-
+Seleccione la pestaña "**Compras**", ubicada en el lado izquierdo de la ventana "**Producto**" y proceder a rellenar los campos correspondiente.
 ![Purchases tab](/assets/img/docs/material-management/product/product-po-tab.png)
 
-Image 58. Purchases tab
+Image 58. Pestaña Compras
 
-Select in the field "**Business Partner**", the business partner
-supplier of the product you are registering.
+Seleccione en el campo "**Socio del Negocio**", el socio comercial proveedor del producto que está registrando.
 
-![Supplier Business Partner Field](/assets/img/docs/material-management/product/vendor.png)
+![Campo Socio del Negocio](/assets/img/docs/material-management/product/vendor.png)
 
-Image 59. Provider Business Partner field
+Imagen 59. Campo Socio del Negocio
 
-Enter in the "**UPC/EAN**" field, the barcode
-corresponding to the product you are registering.
+Ingresar en el campo "**UPC/EAN**", el código de barras correspondiente al producto que se está registrando.
 
-![UPC/EAN Purchasing Field](/assets/img/docs/material-management/product/product-po-upc.png)
+![Campo UPC/EAN](/assets/img/docs/material-management/product/product-po-upc.png)
 
-Image 60. UPC/EAN field
+Imagen 60. Campo UPC/EAN
 
-Select in the field "**Currency**", the currency used for the
-purchase of the product you are registering.
+En el campo "**Moneda**", ingrese la moneda usada para la compra del producto.
 
-![Currency Field](/assets/img/docs/material-management/product/currency.png)
+![Campo Moneda](/assets/img/docs/material-management/product/currency.png)
 
-Image 61. Currency field
+Imagen 61. Campo Moneda
 
-Enter in the field "**List Price**", the price of the product
+Ingresar en el campo "**Precio Lista**", el precio del producto asociado a la moneda seleccionada.
 in the selected currency.
 
-![List Price Field](/assets/img/docs/material-management/product/product-po-price-list.png)
+![Campo Precio Lista](/assets/img/docs/material-management/product/product-po-price-list.png)
 
-Image 62. List Price Field
+Imagen 62. Campo Precio Lista
 
-Select in the field "**Price Effective Date**", the
-date on which the entered price is valid.
+Seleccione en el campo "**Fecha Precio Efectiva**", la fecha en donde el precio asociado en válido.
 
-![Price Effective Date Field](/assets/img/docs/material-management/product/product-po-effective-date.png)
+![Campo Fecha Precio Efectiva](/assets/img/docs/material-management/product/product-po-effective-date.png)
 
-Image 63. Price Effective Date Field
+Imagen 63. Campo Fecha Precio Efectiva
 
-Enter in the "**OC Price**" field, the unit price of the
-product for a purchase order.
+Ingresar en el campo "**Precio OC**", la unidad de precio del producto de la orden de compra.
 
-![OC Price Field](/assets/img/docs/material-management/product/product-po-price.png)
+![Campo Precio OC](/assets/img/docs/material-management/product/product-po-price.png)
 
-Image 64. OC Price field
+Imagen 64. Campo Precio OC
 
-Select in the field "**UM**", the unit of measure to carry out
-the purchase of the product you are registering.
+Seleccione en el campo el "**UM**", la unidad de medida que usará la compra del producto.
 
-![Field UM Purchases](/assets/img/docs/material-management/product/product-po-unit-of-measure.png)
+![Campo UM](/assets/img/docs/material-management/product/product-po-unit-of-measure.png)
 
-Image 65. UM field
+Imagen 65. Campo UM
 
-Enter in the field "**Minimum to Order**", the minimum quantity to
-order in the selected unit of measure of the product that is
-registering.
+Ingresar en el campo "**Mínimo a Ordenar**", la cantidad mínima para ordenar en la unidad de medida del producto.
 
-![Minimum Order Field](/assets/img/docs/material-management/product/product-po-minimum-order.png)
+![Campo Mínimo a Ordenar](/assets/img/docs/material-management/product/product-po-minimum-order.png)
 
-Image 66. Minimum Field to Sort
+Imagen 66. Campo Mínimo
 
-Enter in the field "**Multiple to Order**", the number of
-products contained in the selected unit of measure.
+Ingresa en el campo "**Múltiplo a Ordenar**", el número de productos contenidos en la unidad de medida del producto.
 
-![Multiple Field to Order](/assets/img/docs/material-management/product/product-po-order-multiplier.png)
+![Múltiplo a Ordenar](/assets/img/docs/material-management/product/product-po-order-multiplier.png)
 
-Image 67. Multiple Field to Sort
+Imagen 67. Campo Múltiplo
 
-Enter in the field "**Promised Delivery Time**", the number
-of days existing between the date of the order and the promised date of
-Delivery.
+Ingresar en el campo "**Tiempo de Entrega Comprometido**", el número de días existentes entre la fecha de emisión de la orden y el día comprometido de entrega.
 
-![Promised Delivery Time Field](/assets/img/docs/material-management/product/product-po-delivery-avg.png)
+![Campo Tiempo de Entrega Comprometido](/assets/img/docs/material-management/product/product-po-delivery-avg.png)
 
-Image 68. Promised Delivery Time Field
+Imagen 68. Campio Tiempo de Entrega Comprometido
 
-Enter in the field "**Cost per Order**", the cost per order
-for the product you are registering.
+Ingresa en el campo "**Costo por Orden**", el costo de orden del producto asociado.
 
-![Cost per Order Field](/assets/img/docs/material-management/product/product-po-cost.png)
+![Campo Costo por Orden](/assets/img/docs/material-management/product/product-po-cost.png)
 
-Image 69. Cost per Order field
+Imagen 69. Campo Costo por Orden
 
-Select the "**Save Changes**" icon on the toolbar
-by ADempiere.
+Selecciona el ícono de "**Guardar Cambios**" en la barra de herramientas de ADempiere.
 
-![Purchase Tab Save Changes Icon](/assets/img/docs/material-management/product/product-po-save.png)
+![Icono Guardar Cambios](/assets/img/docs/material-management/product/product-po-save.png)
 
-Image 70. Save Changes Icon
+Imagen 70. Icono Guardar Cambios
 
-## Price tab
+## Pestaña Precio
 
-In this window the price lists used by the
-company, with its different list, limit and standard prices that
-possess the products, in order to be used at the time of
-make a purchase / sale with them. Each of the fields
-with the symbol (\*) are required for registration.
+En esta ventana las listas de precios utilizadas por el empresa, con su diferente lista, límite y precios estándar que poseer los productos, con el fin de ser utilizados en el momento de realizar una compra/venta con ellos. Cada uno de los campos con el símbolo (\*) son necesarios para el registro.
 
-Select the "**Price**" tab, located on the left side of the
-window "**Product**" and proceed to fill in the fields
-corresponding.
-
+Seleccione la pestaña "**Precio**", ubicada en el lado izquierdo de la ventana "**Producto**" y proceder a rellenar los campos correspondiente.
 ![Price tab](/assets/img/docs/material-management/product/product-price-tab.png)
 
-Image 71. Price tab
+Imagen 71. Pestaña Precio
 
-Select in the field "**Price List Version**", the list
-of prices that will be used for the product you are registering.
+Selecciona en el campo "**Versión Lista Precio**", la lista de precios que se usará para el producto.
 
-![Price List Version Field](/assets/img/docs/material-management/product/product-price-price-list-version.png)
+![Campo Versión Lista Precio](/assets/img/docs/material-management/product/product-price-price-list-version.png)
 
-Image 72. Price List Version Field
+Imagen 72. Campo Versión Lista Precio
 
-Select the "**Save Changes**" icon on the toolbar
-by ADempiere.
+Seleccionar el icono "**Guardar Cambios**" de la barra de herramientas de ADempiere.
 
-![Price Tab Save Changes Icon](/assets/img/docs/material-management/product/product-price-save.png)
+![Icono Guardar Cambios](/assets/img/docs/material-management/product/product-price-save.png)
 
-Image 73. Save Changes Icon
+Imagen 73. Icono Guardar Cambioa
 
-## Conversion Unit of Measurement tab
+## Pestaña de Conversión Unidad de Medida
 
-In this window the conversions of the different units are registered.
-of measurement used by the company, in order to apply these
-conversions at the time of making a purchase / sale of a
-product. Each of the fields with the symbol (\*) are mandatory
-for the record.
+En esta ventana se registran las conversiones de las diferentes unidades. de las mediciones utilizadas por la empresa, con el fin de aplicar estos conversiones en el momento de realizar una compra/venta de un producto. Cada uno de los campos con el símbolo (\*) es obligatorio.
 
-Select the "**Conversion Unit of Measurement**" tab, located on the
-left side of the "**Product**" window and proceed to fill in the
-the corresponding fields.
+Seleccione la pestaña "**Unidad de medida de conversión**", ubicada en el lado izquierdo de la ventana "**Producto**" y proceda a rellenar el los campos correspondientes.
 
-![Unit of Measurement Conversion tab](/assets/img/docs/material-management/product/unit-of-measure-tab.png)
+![Pestaña Conversión Unidad de Medida](/assets/img/docs/material-management/product/unit-of-measure-tab.png)
 
-Image 74. Measurement Unit Conversion tab
+Imagen 74. Pestaña Conversión Unidad de Medida
 
-Select in the field "**UM Destination**", the unit of measure to which
-which conversion will be performed.
+Seleccione en el campo "**UM Destination**", la unidad de medida a la que qué conversión se realizará.
 
-![Destination UM Field](/assets/img/docs/material-management/product/unit-of-measure-target-uom.png)
+![Campo UM Destino](/assets/img/docs/material-management/product/unit-of-measure-target-uom.png)
 
-Image 75. Destination UM field
+Imagen 75. Campo UM Destino
 
-Enter in the field "**Destination Factor to Base**", the number of
-products contained in the selected unit of measure.
+Introduzca en el campo "**Factor de destino a base**", el número de productos contenidos en la unidad de medida seleccionada.
 
 ![Base Target Factor Field](/assets/img/docs/material-management/product/unit-o.f-measure-target-to-base.png)
 
-Image 76. Base Destination Factor field
+Imagen 76. Campo Factor Destino
 
-Select the "**Save Changes**" icon on the toolbar
-by ADempiere.
+Seleccione el icono "**Guardar cambios**" en la barra de herramientas por ADempiere.
 
-![Conversion Tab Save Changes Icon](/assets/img/docs/material-management/product/unit-of-measure-save.png)
+![Icono Guardar Cambios](/assets/img/docs/material-management/product/unit-of-measure-save.png)
 
-Image 77. Save Changes Icon
+Imagen 77. Icono Guardar Cambios
